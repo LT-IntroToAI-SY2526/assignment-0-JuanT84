@@ -1,7 +1,7 @@
 # Assignment 0 Writeup
 
-**Name:** [Your name here]  
-**Date:** [Today's date]
+**Name:** [Juan Torres]  
+**Date:** [August 20, 2025]
 
 ---
 
@@ -10,16 +10,15 @@ All answers can be found in the README.md file
 
 **1. What is the difference between Git and GitHub?**
 
-[Your answer here]
+Git is a tool while Github is a median to use the tool
 
 **2. Explain what "committing and pushing" means in your own words. Why are these steps important?**
 
-[Your answer here]
+Commit is a checkpoint to save progress. Pushing adds these changes to your own repository. 
 
 **3. What is a repository and what does it contain?**
 
-[Your answer here]
-
+Repositories are where your work takes place. It contains your work. 
 ---
 
 ## Profile Repository Link
