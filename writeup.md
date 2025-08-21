@@ -25,16 +25,13 @@ Repositories are where your work takes place. It contains your work.
 
 **Link to your GitHub profile repository:** 
 
-[Paste your profile repository link here - it should look something like: https://github.com/yourusername/yourusername]
 
----
 
 ## Looking Ahead
 
 **What aspect of AI are you most excited to learn about this year? Explain why.**
 
-[Your answer here - feel free to write a paragraph or more!]
-
+I am most excited to learn how AI systems are created. I am interested to know how they are coded to learn on their own. I am also excited to leanr its limitations and the possibilities of it getting out of control. I am excited to learn how to better use it as a tool to advance my own learning and how it can be used to help me.
 ---
 
 *Remember: This writeup will be graded based on the quality of your explanations and reflections, not just whether you got the "right" answer. Show your thinking!*
