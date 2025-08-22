@@ -14,7 +14,7 @@ Git is a tool while Github is a median to use the tool
 
 **2. Explain what "committing and pushing" means in your own words. Why are these steps important?**
 
-Commit is a checkpoint to save progress. Pushing adds these changes to your own repository. 
+Commit is a checkpoint to save progress. Pushing adds these changes to your own repository. These changes are importnant because if they are not correctly executed it could result in the loss of your work. If assifnments are not commited or pushed you can lose your work and need to re-do it.
 
 **3. What is a repository and what does it contain?**
 
